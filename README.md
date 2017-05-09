@@ -3,6 +3,10 @@ Computer Graphic - Java OpenGL, GLSL - Student project (PGRF3 - FIM - UHK) - Sha
 
 Date: 2016
 
+What is  Cel shading?
+[https://en.wikipedia.org/wiki/Cel_shading](https://en.wikipedia.org/wiki/Cel_shading)
+
+
 ## Shader - Per Pixel
 
 	- Model = Options for upper and bottom part
